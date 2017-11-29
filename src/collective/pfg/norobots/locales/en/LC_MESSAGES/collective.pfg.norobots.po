@@ -24,7 +24,8 @@ msgid "Extension for PloneFormGen. Field that prevents automatic page submit."
 msgstr ""
 
 #: ./field.py:54
-msgid "In order to avoid spam, please answer the question below."
+msgid "For at undgå spam, besvar venligst spørgsmålet nedenfor
+."
 msgstr ""
 
 #: ./configure.zcml:27
@@ -41,7 +42,7 @@ msgid "Norobots captcha field for PloneFormGen (collective.pfg.norobots)"
 msgstr ""
 
 #: ./skins/norobots_pfg_field/norobots_pfg_widget.pt:7
-msgid "Question"
+msgid "Spørgsmål"
 msgstr ""
 
 #: ./configure.zcml:34
@@ -49,11 +50,11 @@ msgid "Uninstalls the collective.pfg.norobots package"
 msgstr ""
 
 #: ./field.py:89
-msgid "Wrong answer"
+msgid "Forkert svar"
 msgstr ""
 
 #: ./skins/norobots_pfg_field/norobots_pfg_widget.pt:10
-msgid "Your answer"
+msgid "Dit svar"
 msgstr ""
 
 #: ./configure.zcml:34
